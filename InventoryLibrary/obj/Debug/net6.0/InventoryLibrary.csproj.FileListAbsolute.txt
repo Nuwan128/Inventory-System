@@ -1,0 +1,12 @@
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\bin\Debug\net6.0\InventoryLibrary.deps.json
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\bin\Debug\net6.0\InventoryLibrary.dll
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\bin\Debug\net6.0\InventoryLibrary.pdb
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.csproj.AssemblyReference.cache
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.AssemblyInfoInputs.cache
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.AssemblyInfo.cs
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.csproj.CoreCompileInputs.cache
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.dll
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\refint\InventoryLibrary.dll
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\InventoryLibrary.pdb
+D:\Project\C#\C#-New\2023\InventorySystemApp\InventoryLibrary\obj\Debug\net6.0\ref\InventoryLibrary.dll
